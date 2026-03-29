@@ -8,5 +8,6 @@ export default function linear_search(
             found = true;
         }
     }
+
     return found;
 }
